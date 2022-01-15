@@ -65,7 +65,7 @@ class Myapp extends StatelessWidget {
                 ),
               ),
               Card(
-                margin: EdgeInsets.fromLTRB(25.0, 10.0, 25.0, 10.0),
+                margin: const EdgeInsets.fromLTRB(25.0, 10.0, 25.0, 10.0),
                 child: ListTile(
                   leading: Icon(
                       Icons.email,
